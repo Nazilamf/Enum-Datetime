@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum, Datetime", "Enum, Datetime\Enum, Datetime.csproj", "{18F832BA-C716-473E-909C-0678CC6167D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hometask", "Hometask\Hometask.csproj", "{DFBA7259-4C71-41E7-93B2-B3D6C1F521AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18F832BA-C716-473E-909C-0678CC6167D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F832BA-C716-473E-909C-0678CC6167D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F832BA-C716-473E-909C-0678CC6167D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F832BA-C716-473E-909C-0678CC6167D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBA7259-4C71-41E7-93B2-B3D6C1F521AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBA7259-4C71-41E7-93B2-B3D6C1F521AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBA7259-4C71-41E7-93B2-B3D6C1F521AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBA7259-4C71-41E7-93B2-B3D6C1F521AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B064446F-1775-4B14-80F5-0C4CC92FFA47}
+	EndGlobalSection
+EndGlobal
